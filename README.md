@@ -1,12 +1,9 @@
 # Locacao-Estacionamento
 
-Umalocadorabrasileiradecarroscobraumvalorporhoraparalocaçõesdeaté
-12horas.Porém,seaduraçãodalocaçãoultrapassar12horas,alocaçãoserá
-cobradacombaseemumvalordiário.Alémdovalordalocação,éacrescidono
-preçoovalordoimpostoconformeregrasdopaísque,nocasodoBrasil,é20%
-paravaloresaté100.00,ou15% paravaloresacimade100.00.Fazerum
-programaquelêosdadosdalocação(modelodocarro,instanteinicialefinalda
-locação),bemcomoovalorporhoraeovalordiáriodelocação.O programa
-deveentãogeraranotadepagamento(contendovalordalocação,valordo
-impostoevalortotaldopagamento)einformarosdadosnatela.Vejaos
-exemplos.
+Uma locadora brasileira de carros cobra um valor por hora para locações de até 12horas.
+Porém,se a duração da locação ultrapassar 12horas, a locação será cobrada com base em um valor diário.
+Além do valor da locação, é acrescido no preço o valor do imposto conforme regras do país que, no caso do Brasil, é 20%
+para valores até 100.00, ou 15% para valores acima de 100.00.
+Fazer um programa que lê os dados da locação (modelo do carro,instante inicial e final da locação),bem como o valor por hora e o valor diário de locação.
+O programa deve então gerar a nota de pagamento(contendo valor da locação, valor do imposto e valor total do pagamento) e informar os dados na tela.
+
